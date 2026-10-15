@@ -1,0 +1,1 @@
+![блок через брандмаузер](screens/blocking.png)
