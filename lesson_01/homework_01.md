@@ -1,0 +1,1 @@
+![Wireshark traffic](screens/Wireshark_traffic.png)
